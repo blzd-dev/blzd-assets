@@ -1,1 +1,1 @@
-#Assets for Blizzard.money
+# Assets for Blizzard.money
